@@ -53,3 +53,19 @@
 .contact-info-hidden {
   display: none; /* This hides the element */
 }
+
+.game-link {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 15px;
+  background-color: #28a745;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.game-link:hover {
+  background-color: #218838;
+}
